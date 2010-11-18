@@ -73,11 +73,8 @@ After:
 
 == Additional Info
 
-Author: Nathaniel Talbott (for Terralien)
-Contact: nathaniel@talbott.ws
+Author: Fernando Martínez de la Cueva based on "query_trace" by Nathaniel Talbott and the activation idea by Jon Leighton
+Contact: fernando.mdelacueva@gmail.com
 License: MIT
-Home: http://github.com/ntalbott/query_trace/
-Subversion mirror: https://terralien.devguard.com/svn/projects/plugins/query_trace
+Home: http://github.com/oinak/query_trace/
 
-
-Copyright (c) 2006 Nathaniel Talbott. All Rights Reserved.
